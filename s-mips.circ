@@ -14482,4 +14482,34 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="enable" val="false"/>
     </comp>
   </circuit>
+  <circuit name="&gt;&gt;&gt;&gt;Cache&lt;&lt;&lt;&lt;">
+    <a name="circuit" val="&gt;&gt;&gt;&gt;Cache&lt;&lt;&lt;&lt;"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+  </circuit>
+  <circuit name="Cache">
+    <a name="circuit" val="Cache"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+  </circuit>
+  <circuit name="Cache Bank">
+    <a name="circuit" val="Cache Bank"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+  </circuit>
+  <circuit name="Instruction Cache">
+    <a name="circuit" val="Instruction Cache"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+  </circuit>
+  <circuit name="Data Cache">
+    <a name="circuit" val="Data Cache"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+  </circuit>
 </project>
