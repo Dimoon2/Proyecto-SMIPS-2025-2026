@@ -203,7 +203,8 @@ class TestSuite:
 
     def run_all(self) -> None:
         for test in self.test:
-            test.run("logisim", self.circ, self.template)
+            #test.run("logisim", self.circ, self.template)
+            test.run(r".\logisim-win-2.7.1.exe", self.circ, self.template)
             self.failed |= test.failed
             test.print()
 
